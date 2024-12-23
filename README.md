@@ -16,7 +16,6 @@ This project utilizes Generative Adversarial Networks (GANs) to simulate realist
 7. [Usage](#usage)
 8. [Results](#results)
 9. [Future Improvements](#future-improvements)
-10. [License](#license)
 
 ---
 
@@ -131,7 +130,8 @@ The model generates high-quality weather transformations. Below are examples of 
 
 | Input Image | Weather-Transformed Image |
 |-------------|---------------------------|
-| ![Input](example_images/input.jpg) | ![Output](example_images/output.jpg) |
+| ![Input](example_images/input.jpg) | ![Output](![image](https://github.com/user-attachments/assets/cd20383d-65f1-4ced-b522-fbf23844d5d7)
+ |
 
 ---
 
