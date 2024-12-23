@@ -50,8 +50,8 @@ The **GAN-Based Weather Simulation System** is designed for image-to-image trans
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/gan-weather-simulation.git
-   cd gan-weather-simulation
+   git clone https://github.com/arjun1127/GAN_weather_Application.git
+   cd GAN_weather_Application
    ```
 2. Install dependencies:
    ```bash
