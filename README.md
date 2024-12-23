@@ -116,11 +116,7 @@ The project uses the **Cityscapes dataset** for training. Follow these steps to 
 ### Inference
 To generate weather-transformed images:
 1. Place input images in the `input/` directory.
-2. Run the inference script:
-   ```bash
-   python generate.py --input input/ --output output/
-   ```
-3. The results will be saved in the `output/` directory.
+2. The results will be saved in the `output/` directory.
 
 ---
 
@@ -130,7 +126,8 @@ The model generates high-quality weather transformations. Below are examples of 
 
 | Input Image | Weather-Transformed Image |
 |-------------|---------------------------|
-| ![Input](example_images/input.jpg) | ![Output](![image](https://github.com/user-attachments/assets/cd20383d-65f1-4ced-b522-fbf23844d5d7)
+| ![Input](![image](https://github.com/user-attachments/assets/b320cf41-59a7-4f3e-a0f7-ead51a742c71)
+) | ![Output](![image](https://github.com/user-attachments/assets/cd20383d-65f1-4ced-b522-fbf23844d5d7)
  |
 
 ---
