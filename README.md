@@ -126,9 +126,9 @@ The model generates high-quality weather transformations. Below are examples of 
 
 | Input Image | Weather-Transformed Image |
 |-------------|---------------------------|
-|Input(![image](https://github.com/user-attachments/assets/b320cf41-59a7-4f3e-a0f7-ead51a742c71)
- |Output(![image](https://github.com/user-attachments/assets/cd20383d-65f1-4ced-b522-fbf23844d5d7)
- |
+Input ![image](https://github.com/user-attachments/assets/b320cf41-59a7-4f3e-a0f7-ead51a742c71)
+Output ![image](https://github.com/user-attachments/assets/cd20383d-65f1-4ced-b522-fbf23844d5d7)
+ 
 
 ---
 
